@@ -39,6 +39,4 @@ An Android application designed to capture, display, and log real-time telemetry
 2.  Open the project in **Android Studio**.
 3.  Build and run the project on a physical Android device (recommended for accurate sensor readings).
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
